@@ -1,0 +1,13 @@
+time-series modern analysys 
+https://www.youtube.com/watch?v=v5ijNXvlC5A&t=2s
+
+statistical aproach
+https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+
+competicao kaggle:
+https://www.kaggle.com/c/competitive-data-science-final-project/data
+https://www.kaggle.com/alessandrosolbiati/using-xgboost-for-time-series-prediction-top-20?select=shops.csv
+https://mlwhiz.com/blog/2019/12/28/timeseries/
+https://www.kaggle.com/dennise/coursera-competition-modelling
+https://www.kaggle.com/dennise/coursera-competition-getting-started-eda
